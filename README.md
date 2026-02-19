@@ -1,3 +1,5 @@
+<img src="fnxml-icon.png" align="left" width="200" style="margin-right: 15px;">
+
 # FnXML
 
 FnXML is a set of Elixir native XML tools
