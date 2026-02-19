@@ -8,7 +8,7 @@ The aim of this project is to provide composable Elixir native tooling for XML a
 
 These projects are new-ish, so there are some rough edges.
 
-## Available/In Progress
+## Available/In Progress Projects
 
 **FnXML** 
 
@@ -53,7 +53,7 @@ These projects are new-ish, so there are some rough edges.
 |----------|---------|--------|
 | SOAP     | 1.2     | Supported |
 
-## Early Stages
+## Early Stage Projects
 
 Early stage work is being done on an Elixir Native HTML/CSS -> Layout -> SVG/PDF tools.  Which should make generating PDFs from pure Elixir more straight forward.
 
