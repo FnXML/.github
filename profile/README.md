@@ -1,4 +1,4 @@
-<img src="fnxml-icon.png" align="left" width="200" style="margin-right: 15px;">
+<img src="/fnxml-icon.png" align="left" width="200" style="margin-right: 15px;">
 
 # FnXML
 
