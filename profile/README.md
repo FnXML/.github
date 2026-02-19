@@ -8,6 +8,8 @@ The aim of this project is to provide composable Elixir native tooling for XML a
 
 These projects are new-ish, so there are some rough edges.
 
+Each project should have a getting_started.md file to get you going.  Also `mix docs` will generate exdocs for the project.
+
 ## Available/In Progress Projects
 
 **FnXML** 
