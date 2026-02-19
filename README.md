@@ -6,7 +6,7 @@ FnXML is a set of Elixir native XML tools
 
 The aim of this project is to provide composable Elixir native tooling for XML and related specs.
 
-This software is new-ish, so there are some rough edges.
+These projects are new-ish, so there are some rough edges.
 
 ## Available/In Progress
 
