@@ -1,9 +1,8 @@
 # FnXML
 
-FnXML is a group of XML tools for Elixir.
+FnXML is a set of Elixir native XML tools
 
-XML is often thought of as a legacy technology, but there is a lot of it in use out there.  The aim of this project
-is to provide tooling which is composable in a way that allows the developer to use as much or as little as they like. 
+The aim of this project is to provide composable Elixir native tooling for XML and related specs.
 
 This software is new-ish, so there are some rough edges.
 
@@ -66,7 +65,7 @@ Early stage work is being done on an Elixir Native HTML/CSS -> Layout -> SVG/PDF
 
 | Standard | Version | Status |
 |----------|---------|--------|
-| CSS      |         | ~20% |
+| CSS      |         | ~20%   |
 
 **FnLayout**
 
